@@ -1,0 +1,139 @@
+﻿cl : командная строка  warning D9025: переопределение "/sdl" на "/GS-"
+  Neverlose.cpp
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\valve\interfaces\random.h(160,26): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\valve\interfaces\random.h(160,26): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\valve\interfaces\random.h(162,52): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\valve\interfaces\random.h(162,52): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\valve\interfaces\random.h(169,26): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\valve\interfaces\random.h(169,26): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\valve\interfaces\random.h(171,54): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\valve\interfaces\random.h(171,54): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\valve\interfaces\impl\interfaces.inl(59,56): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\valve\entities\impl\entities.inl(1293,74): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\valve\entities\impl\entities.inl(1295,55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(127,29): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(127,29): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(148,33): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(148,33): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(160,32): warning C4244: +=: преобразование "float" в "ptrdiff_t", возможна потеря данных
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(179,29): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(179,29): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(211,46): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(211,46): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(226,120): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(226,120): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(226,141): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(226,141): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\lag_comp\impl\lag_comp.inl(226,138): warning C4018: <=: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\eng_pred\impl\eng_pred.inl(414,81): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\eng_pred\impl\eng_pred.inl(414,81): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\eng_pred\impl\eng_pred.inl(414,99): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\eng_pred\impl\eng_pred.inl(414,99): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\eng_pred\impl\eng_pred.inl(416,15): warning C4305: аргумент: усечение из "const uint64_t" в "const int"
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\eng_pred\impl\eng_pred.inl(416,15): warning C4309: аргумент: усечение константного значения
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\hacks\anim_sync\anim_sync.hpp(135,50): warning C4114: Множественное использование одного и того же квалификатора типа.
+  (компиляция исходного файла "menu/NL/Neverlose.cpp")
+  
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(196,44): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(197,44): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(201,47): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(202,47): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(209,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(209,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(213,86): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(257,142): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(257,125): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(257,84): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(257,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(258,149): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(258,130): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(258,96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(258,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(261,142): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(261,125): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(261,96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(261,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(264,97): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(264,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(266,158): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(266,140): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(266,111): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(266,93): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(269,89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(269,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(271,89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(271,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(273,85): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(273,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(299,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\menu\NL\Neverlose.cpp(306,24): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\output\release\advance.tech recode.lib и объект C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\output\release\advance.tech recode.exp
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  3 of 19130 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    90 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  nem.vcxproj -> C:\Users\sklis\source\repos\tomorrow cracked\neverlose cracked btw\output\release\advance.tech recode.dll
